@@ -9,9 +9,6 @@ Java Edition and click **Play**: the launcher downloads Minecraft 1.8.9 from Moj
 official mods into `%APPDATA%\.steinclient`. Every time it opens, it checks for a new version of itself and updates
 before starting.
 
-**Portable:** put `SteinClient.exe` in a folder with an empty file named `portable`. Everything (game, worlds,
-options, mods) stays in that folder, ready to copy to another computer.
-
 **Original Minecraft only.** The game files come from Mojang, straight to your computer, and the game only starts once
 an account that owns Minecraft: Java Edition is in the launcher. With one, you can also add offline nicknames for
 singleplayer and servers without authentication. Nothing from Mojang is redistributed here.
@@ -22,5 +19,4 @@ singleplayer and servers without authentication. Nothing from Mojang is redistri
 a conta Microsoft que possui o Minecraft: Java Edition e clique em **Jogar**: o launcher baixa o Minecraft 1.8.9 da
 Mojang, o Stein Loader, o Java e os mods oficiais em `%APPDATA%\.steinclient`. Sempre que abre, ele confere se há uma
 versão nova dele e se atualiza antes de começar. Com a conta original no launcher, você também pode criar contas
-offline para jogar sozinho ou em servidores sem autenticação. Portátil: coloque o `SteinClient.exe` numa pasta com um
-arquivo vazio chamado `portable`.
+offline para jogar sozinho ou em servidores sem autenticação.
